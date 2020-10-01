@@ -4,7 +4,7 @@
 <body style="background-color:powderblue;">
 <form action="answer1.php" method="get">
 <h1>LEVEL 1 : Addition</h1><img src="picture2.png" width="500" height="500" align="right"/>
-<h3>Please answer all the question.</h3>
+<h3>Please do answer all this question.</h3>
 <table border="0" cellpadding="5" width="30%" align="center" >
 <tr>
 <td><label>1. 10 + 5 = </label></td>
