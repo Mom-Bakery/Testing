@@ -3,15 +3,15 @@
 </head>
 <body style="background-color:powderblue;">
 <form action="answer1.php" method="get">
-<h1>LEVEL 1 : Addition</h1><img src="picture2.png" width="500" height="500" align="right"/>
-<h3>Please answer all the question.</h3>
-<table border="0" cellpadding="5" width="30%" align="center" >
+<h1>LEVEL 1 : Addition</h1><img src="picture2.png" width="550" height="550" align="right"/>
+<h3>Please answer all the question here!.</h3>
+<table border="0" cellpadding="5" width="35%" align="center" >
 <tr>
-<td><label>1. 10 + 5 = </label></td>
+<td><label>1. 10 + 15 = </label></td>
 <td><input type="text" name="q1"/></td>
 </tr>
 <tr>
-<td><label>2. 20 + 10 = </label></td>
+<td><label>2. 20 + 40 = </label></td>
 <td><input type="text" name="q2"/></td>
 </tr>
 <tr>
@@ -19,7 +19,7 @@
 <td><input type="text" name="q3"/></td>
 </tr>
 <tr>
-<td><label>4. 100 + 50 = </label></td>
+<td><label>4. 150 + 50 = </label></td>
 <td><input type="text" name="q4"/></td>
 </tr>
 <tr>
