@@ -5,25 +5,25 @@
 <form action="answer1.php" method="get">
 <h1>LEVEL 1 : Addition</h1><img src="picture2.png" width="550" height="550" align="right"/>
 <h3>Please answer all the question here!.</h3>
-<table border="0" cellpadding="5" width="35%" align="center" >
+<table border="0" cellpadding="5" width="40%" align="center" >
 <tr>
-<td><label>1. 10 + 15 = </label></td>
+<td><label>1. 100 + 15 = </label></td>
 <td><input type="text" name="q1"/></td>
 </tr>
 <tr>
-<td><label>2. 20 + 40 = </label></td>
+<td><label>2. 22 + 40 = </label></td>
 <td><input type="text" name="q2"/></td>
 </tr>
 <tr>
-<td><label>3. 15 + 5 = </label></td>
+<td><label>3. 15 + 50 = </label></td>
 <td><input type="text" name="q3"/></td>
 </tr>
 <tr>
-<td><label>4. 150 + 50 = </label></td>
+<td><label>4. 15 + 50 = </label></td>
 <td><input type="text" name="q4"/></td>
 </tr>
 <tr>
-<td><label>5. 24 + 9 = </label></td>
+<td><label>5. 240 + 9 = </label></td>
 <td><input type="text" name="q5"/></td>
 </tr>
 <table border="0" cellpadding="0" width="50%" align="center" >
