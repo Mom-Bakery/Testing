@@ -1,9 +1,9 @@
 <html>
 <head>
 </head>
-<body style="background-color:powderblue;">
-<form action="answer1.php" method="get">
-<h1>LEVEL 1 : Addition</h1><img src="picture2.png" width="500" height="500" align="right"/>
+<body>
+<form action="" method="">
+<h1>LEVEL 1 : Addition</h1>
 <h3>Please answer all the question.</h3>
 <table border="0" cellpadding="5" width="30%" align="center" >
 <tr>
