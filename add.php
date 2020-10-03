@@ -5,9 +5,9 @@
 <form action="" method="">
 <h1>LEVEL 1 : Addition</h1>
 <h3>Please answer all the question.</h3>
-<table border="0" cellpadding="5" width="30%" align="center" >
+<table border="0" cellpadding="5" width="40%" align="center" >
 <tr>
-<td><label>1. 10 + 5 = </label></td>
+<td><label>1. 20 + 5 = </label></td>
 <td><input type="text" name="q1"/></td>
 </tr>
 <tr>
@@ -19,7 +19,7 @@
 <td><input type="text" name="q3"/></td>
 </tr>
 <tr>
-<td><label>4. 100 + 50 = </label></td>
+<td><label>4. 50 + 50 = </label></td>
 <td><input type="text" name="q4"/></td>
 </tr>
 <tr>
